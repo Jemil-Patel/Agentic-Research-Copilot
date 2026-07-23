@@ -1,2 +1,2 @@
 # Agentic-Research-Copilot
-Agentic Research Copilot is a multi-agent AI application that autonomously plans, executes, evaluates, and synthesizes complex research tasks using durable workflows, MCP tool integrations, and human-in-the-loop orchestration.
+A multi-agent AI research assistant that searches, analyzes, compares, and summarizes information from multiple sources using Temporal workflows, MCP tool integration, and automated evaluation.
