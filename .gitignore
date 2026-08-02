@@ -1,0 +1,11 @@
+docs/
+.env
+.DS_Store
+__pycache__/
+*.pyc
+qdrant_data/
+venv/
+node_modules/
+dist/
+.vscode/
+interview-prep/
